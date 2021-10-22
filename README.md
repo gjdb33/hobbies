@@ -2,7 +2,7 @@
 
 - This page is to show you a list of different **hobbies** that I have.
 
-- Here is a link to [README page](
+- Here is a link to [README page](https://github.com/gjdb33/midterm_project.git)
 
 
 * ## American Football ![American Football](https://target.scene7.com/is/image/Target/GUEST_3428dbb8-dbeb-47eb-874e-84d7569f3704?wid=488&hei=488&fmt=pjpeg)
